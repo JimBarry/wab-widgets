@@ -1,0 +1,13 @@
+{
+  "name": "MouseEvents",
+  "platform": "HTML",
+  "version": "2.7",
+  "wabVersion": "2.7",
+  "author": "Jim Barry Esri_NYC",
+  "description": "This widget sends mouse event messages to the console",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false
+  }
+}
