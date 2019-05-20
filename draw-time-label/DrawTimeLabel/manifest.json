@@ -1,0 +1,13 @@
+{
+  "name": "DrawTimeLabel",
+  "platform": "HTML",
+  "version": "2.7",
+  "wabVersion": "2.7",
+  "author": "Jim Barry Esri_NYC",
+  "description": "This widget draws time time-stamp label to the map when you click on a train.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false
+  }
+}
